@@ -7,3 +7,5 @@ node_modules/
 .DS_Store
 *.tmp
 *.swp
+shares/types/GameAssets.d.ts
+UiIndex/
